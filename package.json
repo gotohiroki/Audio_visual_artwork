@@ -1,0 +1,19 @@
+{
+  "name": "Audio_visual_artwork",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "lil-gui": "^0.17.0",
+    "three": "^0.148.0",
+    "vite-plugin-glsl": "^1.1.2"
+  }
+}
